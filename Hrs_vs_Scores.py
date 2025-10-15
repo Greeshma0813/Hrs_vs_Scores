@@ -128,7 +128,7 @@ print("Slope (m):", model.coef_[0])
 y_pred = model.predict(x_test)
 
 y_pred = model.predict(x_test)
-print(y_pred)
+#print(y_pred)
 
 import pandas as pd
 
