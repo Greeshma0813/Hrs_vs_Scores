@@ -1,4 +1,4 @@
-//import pandas as pd                   # For data loading and handling (tables, csv files)
+import pandas as pd                   # For data loading and handling (tables, csv files)
 import numpy as np                     # For numerical operations (arrays, math functions)
 import matplotlib.pyplot as plt        # For plotting graphs and visualizations
 from sklearn.model_selection import train_test_split   # For splitting data into training and testing
